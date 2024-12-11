@@ -31,5 +31,4 @@ function Product() {
     </>
   );
 }
-// target='_blank'
 export default Product;
